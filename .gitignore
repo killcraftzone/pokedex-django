@@ -1,0 +1,19 @@
+
+# Environments
+.env/
+.venv/
+env/
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.sqlite
+
+*.log
+local_settings.py
+media/
+static/*
